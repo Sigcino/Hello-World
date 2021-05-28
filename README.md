@@ -4,3 +4,9 @@ From this day, I commit to **bettering my dev skills**. If I have time to go out
 **NO EXCUSES!!!**
 
 _**C# Developer**_
+
+**TO DO PROJECTS**
+1. Simple Ordering System. 
+  _**FUNCTIONALITY**_
+    a. Items to select from
+    b. 
